@@ -1,6 +1,6 @@
 A simple number guessing game. Each time we enter a number, 
-if the number we entered is different from the hidden number, our score will decrease by one. 
-When you guess the number correctly, your score will be recorded as the high score. 
+if the number we entered is different from the hidden number, our score will decrease by one.
+If your score is 0, you lose the game. When you guess the number correctly, your score will be recorded as the high score. 
 If your score is higher than the high score next time, your high score will be updated.
 
 
